@@ -12,5 +12,7 @@ This is a quick and dirty (and incomplete) re-theme for Transmission's Web UI.
 
 You may need to clear your browser cache to force it to load the new UI resources.
 
+如果你是中文用户,将`web`目录下的`index-zh.html`覆盖到`index.html`文件
+
 ![Screenshot](http://i.imgur.com/lNT6WxX.png)
 
